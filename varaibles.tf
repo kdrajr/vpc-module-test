@@ -29,3 +29,4 @@ variable "priv_subnet_cidrs" {
 variable "db_subnet_cidrs" {
   default = ["10.0.21.0/24","10.0.22.0/24"]
 }
+
